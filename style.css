@@ -94,7 +94,7 @@ h2 {
 .prize span {
   text-decoration: line-through;
   color: var(--darkgrayishblue);
-  font-size: .85em;
+  font-size: .90em;
 }
 
 button {
