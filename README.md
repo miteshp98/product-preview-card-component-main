@@ -26,14 +26,17 @@ Users should be able to:
 
 ### Screenshot
 
+![htmlcode](https://github.com/miteshp98/product-preview-card-component-main/assets/145320555/f36ccc62-0124-4ea7-b7cf-cf1506f6e909)
+
+![csscode](https://github.com/miteshp98/product-preview-card-component-main/assets/145320555/8e5fdfea-824b-49aa-be01-0aa36413cf50)
 
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/miteshp98/product-preview-card-component-main)
+- Live Site URL: [site URL](https://miteshp98.github.io/product-preview-card-component-main/)
 
 ## My process
 
