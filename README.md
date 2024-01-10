@@ -25,9 +25,9 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-![mobile (1)](https://github.com/miteshp98/product-preview-card-component-main/assets/145320555/37b35323-2391-48ce-9dc1-f18152a43697)
+![htmlcode](https://github.com/miteshp98/product-preview-card-component-main/assets/145320555/6d97c952-a991-46be-96be-f1635cd24ed1)
 
-![mobile](https://github.com/miteshp98/product-preview-card-component-main/assets/145320555/e3ed768d-38d1-4987-ad41-7f2756285201)
+![csscode](https://github.com/miteshp98/product-preview-card-component-main/assets/145320555/0621fa64-562c-4aab-90b6-c918f1ea9384)
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
